@@ -19,7 +19,7 @@ A simple webpage that generates random passwords
 
 ## Webpage Screenshot
 
-![image](C:\Users\User\password generator\public\screenshots\螢幕擷取畫面 2024-06-28 220229.png)
+![image](https://github.com/ihanfan/generate-password/blob/d1c5dc4f7a0b512ae0b85b667ecee535ba5a3a18/password-generator/public/screenshots/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-06-28%20220229.png)
 
 ## Installation
 
